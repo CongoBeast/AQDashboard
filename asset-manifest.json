@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AirQualityDashboard/static/css/main.f0124052.css",
+    "main.js": "/AirQualityDashboard/static/js/main.c1465399.js",
+    "static/js/483.a748664b.chunk.js": "/AirQualityDashboard/static/js/483.a748664b.chunk.js",
+    "static/js/787.35d77ec4.chunk.js": "/AirQualityDashboard/static/js/787.35d77ec4.chunk.js",
+    "index.html": "/AirQualityDashboard/index.html",
+    "main.f0124052.css.map": "/AirQualityDashboard/static/css/main.f0124052.css.map",
+    "main.c1465399.js.map": "/AirQualityDashboard/static/js/main.c1465399.js.map",
+    "483.a748664b.chunk.js.map": "/AirQualityDashboard/static/js/483.a748664b.chunk.js.map",
+    "787.35d77ec4.chunk.js.map": "/AirQualityDashboard/static/js/787.35d77ec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0124052.css",
+    "static/js/main.c1465399.js"
+  ]
+}
