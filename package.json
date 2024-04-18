@@ -1,5 +1,4 @@
 {
-  "homepage": "https://CongoBeast.github.io/dashboard",
   "name": "dashboard_sacaqm",
   "version": "0.1.0",
   "private": true,
@@ -33,11 +32,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npm install --force && run build",
+    "start": "npm install --force",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
